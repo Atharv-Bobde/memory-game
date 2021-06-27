@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+.box
+{
+    height: 300px;
+    width: 400px;
+    border: solid black 1px;
+    background-color: burlywood;
+}
